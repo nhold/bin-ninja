@@ -1,5 +1,5 @@
 [build]
-  base = "packages/backend"
+  base = "packages/bin-ninja-backend"
   command = "npm run build"
   publish = "dist"
 
